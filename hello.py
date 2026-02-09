@@ -1,2 +1,2 @@
 print ("HellO jenkinss!")
-print("hello SCM!!!") 
+print("hello SCM!") 
